@@ -1,0 +1,24 @@
+{
+  "name": "chatbot-tuts",
+  "version": "1.0.0",
+  "description": "simple express chatbot for Facebook Messenger",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kowus/chatbot-tutorial.git"
+  },
+  "author": "Barnabas Nomo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kowus/chatbot-tutorial/issues"
+  },
+  "homepage": "https://github.com/Kowus/chatbot-tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2",
+    "request": "^2.81.0"
+  }
+}
